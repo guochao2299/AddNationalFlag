@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddRedFlag", "AddRedFlag\AddRedFlag.csproj", "{F4023AB8-5B46-4697-84EF-2D0AD19079B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4023AB8-5B46-4697-84EF-2D0AD19079B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4023AB8-5B46-4697-84EF-2D0AD19079B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4023AB8-5B46-4697-84EF-2D0AD19079B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4023AB8-5B46-4697-84EF-2D0AD19079B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B3C90D1-435B-4A3D-A37C-21DDD81D38D3}
+	EndGlobalSection
+EndGlobal
